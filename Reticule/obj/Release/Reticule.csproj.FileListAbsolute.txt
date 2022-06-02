@@ -1,0 +1,11 @@
+C:\Users\SamNx\source\repos\Reticule\Reticule\bin\Release\Reticule.exe.config
+C:\Users\SamNx\source\repos\Reticule\Reticule\bin\Release\Reticule.exe
+C:\Users\SamNx\source\repos\Reticule\Reticule\bin\Release\Reticule.pdb
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.csproj.AssemblyReference.cache
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.csproj.SuggestedBindingRedirects.cache
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.Reticule.resources
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.Properties.Resources.resources
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.csproj.GenerateResource.cache
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.csproj.CoreCompileInputs.cache
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.exe
+C:\Users\SamNx\source\repos\Reticule\Reticule\obj\Release\Reticule.pdb
